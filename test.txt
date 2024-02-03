@@ -1,1 +1,6 @@
-jhj(th,jh,'())
+How does the web work?
+the web send the question http to the server with api and the server réponse
+What do you need to be a web developer?
+you need to learn html css js
+Why did you choose to learn web development?
+because I like
