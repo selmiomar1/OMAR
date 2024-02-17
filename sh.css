@@ -1,0 +1,39 @@
+.hom{
+    background-color: aqua;
+    color: white;
+    border: none;
+    font-size: 30px;
+}
+div{
+top:100px ;
+    display: flex;
+justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.dash ,
+.MyCourses{
+    color: white;
+    background-color: aqua;
+    border: none;
+    font-size: 20px;
+    margin-left:60px ;
+    
+}
+input{
+    display: flex;
+    flex: 1;
+    max-width: 400px;
+    min-width: 100px;
+    border: none;
+    height: 30px;
+    border-radius: 50px;
+    
+}
+html{
+    margin: 0px;
+}
+button:hover{
+    box-shadow: 10px 10px 15px rgba(rgb(0, 0, 0), green, blue, ) 10px 10px 15px ;
+}
